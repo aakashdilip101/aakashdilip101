@@ -1,8 +1,3 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/aakashdilip101/count.svg" alt="Visitor's Count" />
-</div>
-
 ## 👋 About Me
 
 Hi, I’m Aakash Dilip — a full-stack developer and Software Engineering student based in Sydney, Australia. I enjoy building end-to-end applications across both frontend and backend, working with databases, designing APIs, implementing robust testing and creating intuitive UI. I work with a range of modern web technologies and have a strong interest in AI/ML.
