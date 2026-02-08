@@ -125,17 +125,12 @@ An extensible Unreal Engine 5 inventory system built in C++ for the game 'The Co
 
 🔗 [GitHub Repo](https://github.com/aakashdilip101/unreal-engine-inventory-system)
 
-## 📊 GitHub Stats
+## ⚡️ Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=aakashdilip101&label=Profile%20views&color=0e75b6&style=flat)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aakashdilip101&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aakashdilip101&layout=compact)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=aakashdilip101&theme=flat)
-
-## 🏷️ Badges
-
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=aakashdilip101&theme=flat)](https://github.com/aakashdilip101) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/aakashdilip101)
-
+<br>
+<div align="center">
+  <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aakashdilip101&count_private=true&show_icons=true&rank_icon=github&locale=en&theme=dark&bg_color=0d1117&title_color=c9d1d9&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashdilip101&count_private=true&border_radius=10&theme=dark&background=0d1117&fire=ffac33&currStreakNum=c9d1d9&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9" alt="Streak Stats" />
+  <!-- <img width="325" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=aakashdilip101&theme=dark&layout=donut&hide=css&langs_count=8&border_radius=10&locale=en" /> -->
+</div>
+<hr>
