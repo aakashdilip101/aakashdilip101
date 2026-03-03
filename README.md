@@ -125,6 +125,12 @@ An extensible Unreal Engine 5 inventory system built in C++ for the game 'The Co
 
 🔗 [GitHub Repo](https://github.com/aakashdilip101/unreal-engine-inventory-system)
 
+### Collaborative Crypto Portfolio Manager
+
+A proof-of-concept for a role-based collaborative cryptocurrency portfolio management platform.
+
+🔗 [GitHub Repo](https://github.com/AIS170/xrpl-hackathon)
+
 ## ⚡️ Stats
 
 <br>
