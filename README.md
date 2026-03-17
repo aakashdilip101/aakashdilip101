@@ -125,6 +125,12 @@ An extensible Unreal Engine 5 inventory system built in C++ for the game 'The Co
 
 🔗 [GitHub Repo](https://github.com/aakashdilip101/unreal-engine-inventory-system)
 
+### Degree Planning Platform
+
+A proof-of-concept for a degree planning platform that lets users design their degree paths, optimizing for either cost or personal career focus.
+
+🔗 [GitHub Repo](https://github.com/rakshil17/FlamingoBeaversBackend)
+
 ### Collaborative Crypto Portfolio Manager
 
 A proof-of-concept for a role-based collaborative cryptocurrency portfolio management platform.
